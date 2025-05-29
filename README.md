@@ -1,2 +1,1 @@
-# Probleme-setul-3
-nu e finisat
+# Probleme-setul-3 C#
